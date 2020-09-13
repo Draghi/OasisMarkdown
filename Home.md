@@ -5,5 +5,6 @@
 * [Cybernetics-Induced Hypohemia (Cybernetic Vampirism)](afflictions/cih)
 * [Echos](afflictions/echos)
 * [Xenochimerism](afflictions/xenochimerism)
+* [Digital Shadow](afflictions/digitalshadow)
 
 
