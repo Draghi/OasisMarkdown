@@ -2,6 +2,8 @@
 
 ## Technology
 
+* Nanites
+  * Neural Lace
 * Augmentations
   * Biological
     * Traditional
