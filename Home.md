@@ -3,7 +3,7 @@
 ## Technology-Related Afflictions
 
 * [Cybernetics-Induced Hypohemia (Cybernetic Vampirism)](afflictions/cih)
-* [Corpse Echos](afflications/echos)
+* [Corpse Echos](afflictions/echos)
 * [Xenochimerism](afflictions/chimerism)
 
 
