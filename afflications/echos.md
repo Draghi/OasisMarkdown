@@ -6,7 +6,7 @@ In other cases, the nanites succeed in restoring the brain to partial operation 
 
 Some echos have more advanced brain function than others and are capable of strategy and primitive communication. In a rare few cases, these echos were able to meet and form small groups to protect eachother whilst feeding, causing a lot of trouble for the cleanup crews - who typically apply attrition methods in these cases. This is not an issue with beserkers, as they are incapable of working with other echos, instead viewing others in their condition as threats or sources of material.
 
-Two stories of these more advanced echos have captivated popular culture. The first being an echo that begged for its life corherently enough that a cleanup crew stood down and called them an PHS ambulance, who then confirmed that they were definitely dead. The second involved a couple where one of the spouses succumed to a terminal illness, becoming an echo not long after death. They manged to escape the hospital, put together a boquet and delivered it to their sleeping spouse, before crossing the street and drawing their last breathe alone on a park bench.
+Two stories of these more advanced echos have captivated popular culture. The first being an echo that begged for its life corherently enough that a cleanup crew stood down and called them an PHS ambulance, who then confirmed that they were definitely dead. The second involved a couple where one of the spouses succumed to a terminal illness, becoming an echo not long after death; They manged to escape the hospital, put together a boquet and deliver it to their sleeping spouse, before crossing the street and drawing their last breathe - alone on a park bench.
 
 ---
 
