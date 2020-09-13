@@ -1,5 +1,13 @@
 # Oasis
 
+## Technology
+
+* Augmentations
+  * Biological
+    * Traditional
+    * Xenochimeric
+  * Cybernetic
+
 ## Technology-Related Afflictions
 
 * [Cybernetics-Induced Hypohemia (Cybernetic Vampirism)](afflictions/cih)
